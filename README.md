@@ -1,6 +1,6 @@
 
 <!--horizontal divider(gradiant)-->
-<img src="[https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3lpOHN1YnQ4Z3g5cmFkYW1maTA1bmVxMHVyMXA4MjB0dnc1YWE5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xuXzcHMkuwvf2/giphy.gif)">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -83,7 +83,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?css,docker,postgres,js,linux,mongodb,mysql,nextjs,nodejs,postman,react,ts,vscode,php,laravel,mysql,postgres&perline=14" />
+    <img src="https://skillicons.dev/icons?i=css,docker,postgres,js,linux,mongodb,mysql,nextjs,nodejs,postman,react,ts,vscode,php,laravel,mysql,postgres&perline=14" />
   </a>
 </p>
 
