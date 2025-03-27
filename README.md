@@ -12,7 +12,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+  <img  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDFiNjEyc2JkaG5pM3Y4ZHA3Znp4eWoxcWM1enJ0MGtuc2l2b3ZzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TxjOEVUWq5RTy/giphy.gif"
        alt="snake" /></a>
 </div>
 
