@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=30&pause=1000&color=2800F7&background=4BFFB600&center=true&width=435&lines=Improving+every+day..)](https://git.io/typing-svg)
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=30&pause=1000&color=2800F7&background=4BFFB600&center=true&width=435&lines=Improving+every+day.." alt="Typing SVG" /></a>
